@@ -1,0 +1,19 @@
+{
+  "name": "odop",
+  "version": "1.0.0",
+  "description": "an ecommerce website",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js"
+  },
+  "keywords": [
+    "node",
+    "odop"
+  ],
+  "author": "smit mhatre",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
